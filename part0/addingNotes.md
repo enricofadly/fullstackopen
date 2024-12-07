@@ -13,5 +13,4 @@ participant server
     browser->>server: The browser fetch/GET the updated html page
     server-->>browser: Server send the updated hmtl page
     deactivate server
-
 :::
